@@ -11,7 +11,7 @@ This repository contains my study notes and materials for exam preparation durin
 - **Оптимизация Экзамен.pdf** — Optimization exam notes
 - **Слупы Экзамен.pdf** — Random Processes exam notes
 - **Статистика Экзамен.pdf** — Statistics exam notes
-- **ТФКП Экзамен.pdf** — Theory of Functions of a Complex Variable (TFCP) exam notes
+- **ТФКП Экзамен.pdf** — Theory of Functions of a Complex Variable exam notes
 
 ### Physics
 
